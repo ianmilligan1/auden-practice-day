@@ -1,4 +1,4 @@
-:root { --gold: #f5b800; --ink: #141414; }
+:root { --gold: #f5b800; --ink: #141414; color-scheme: dark; }
 * { box-sizing: border-box; }
 html, body { margin: 0; height: 100%; }
 body {
