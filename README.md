@@ -1,5 +1,7 @@
 # Auden's Practice Day ⚾
 
+**Play it:** https://ianmilligan1.github.io/auden-practice-day/
+
 A browser baseball game starring **Auden Milligan, #22** of the **11U Tier 2 Waterloo Tigers**
 (Waterloo Minor Baseball, Waterloo, Ontario). Before the big game against the Guelph Royals,
 Auden has to put in his reps at Auburn Park.
